@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "stdbool.h": "c",
+        "usart1.h": "c",
+        "tsl_protocol.h": "c",
+        "stm32f10x_it.h": "c",
+        "stm32f10x.h": "c",
+        "systick.h": "c",
+        "mcu_at_system.h": "c"
+    }
+}
